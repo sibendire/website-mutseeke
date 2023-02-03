@@ -1,0 +1,18 @@
+
+
+#display{
+background-color: aqua;
+margin: 15px;
+display: grid;
+     grid-template-columns: 2fr 1fr 1fr 1fr 1fr ;
+    grid-gap: 15px;
+}
+ img{
+    margin: 20px;
+    border-radius: 30px;
+    border: salmon;
+    
+ }
+ @media screen {
+    
+ }
